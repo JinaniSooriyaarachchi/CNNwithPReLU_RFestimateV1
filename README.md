@@ -1,4 +1,4 @@
-# RFestimate_CNNwithPReLU
+# CNNwithPReLU_RFestimateV1
 
 # Introduction
 This repository contains Python code for a working example of our receptive field estimation method, using a simple convolutional neural network approach. The method is described in detail, with results on many cortical neurons, in our paper currently submitted for publication (“Estimating receptive fields of simple and complex cells in early visual cortex: A convolutional neural network model with parameterized rectification”, by Philippe Nguyen, myself and Curtis Baker).
