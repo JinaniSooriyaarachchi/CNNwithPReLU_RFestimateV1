@@ -13,7 +13,7 @@ For the real neuron scenario:
 Run SystemIdentification_AvgMethod.py file. The stimuli data and neuronal response data are provided in sub folders.
 
 # Requirements
-Python 3., scipy, numpy, matplotlib tensorflow 2.0, Keras. Check the environment.ym file for detailed list of dependencies.
+Python 3., scipy, numpy, matplotlib tensorflow 2.0, Keras. Check the environment.yml file for detailed list of dependencies.
 If you have an NVIDIA card, the libraries CUDA and CUDNN will be useful. https://developer.nvidia.com/cuda-zone https://developer.nvidia.com/cudnn 
 
 # Notes
